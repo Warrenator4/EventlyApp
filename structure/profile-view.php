@@ -26,6 +26,6 @@
 	</div>
 	
 	<div data-role="footer" data-position="fixed">
-		<a data-role="button" data-icon="edit" href="#">Edit Profile</a>
+		<a data-role="button" data-icon="edit" href="#edit-profile">Edit Profile</a>
 	</div>
 </div>

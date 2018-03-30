@@ -14,4 +14,7 @@
 			</a></li>
 		</ul>
 	</div>
+	<div data-role="footer" data-position="fixed">
+            <a data-role="button" data-icon="edit" href="#create-event">Create an Event</a>
+    </div>
 </div>

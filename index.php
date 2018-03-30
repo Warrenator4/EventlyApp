@@ -4,7 +4,7 @@
 	<title>DJ APP</title>
 	
 	<!-- Meta Tags -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
 	
 	<!-- Jquery Mobile -->
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
@@ -113,9 +113,10 @@
 	include_once("structure/scan-view.php");
 	
 	include_once("structure/event-details.php");
+	include_once("structure/create-event.php");
 	
-	
-	include_once("structure/profile-view.php");	
+	include_once("structure/profile-view.php");
+	include_once("structure/edit-profile.php");	
 ?>
 
 </body>
