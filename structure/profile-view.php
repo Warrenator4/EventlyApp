@@ -9,7 +9,7 @@
 		<div class="profile-image" style="background-image: url('images/profile-sample.png');"></div>
 	</div>
 	
-	<div role="main" class="ui-content">
+	<div role="main" class="ui-content" data-theme="c">
 		<div class="user-name-banner">
 			<h2>JohnSmith007</h2>
 		</div>

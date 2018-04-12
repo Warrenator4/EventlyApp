@@ -2,7 +2,7 @@
 	<h1><?php echo $PAGE_NAME ?></h1>
 	<a href="#profile-view" data-icon="user" class="ui-btn-right">Profile</a>
 	
-	<div data-role="navbar">
+	<div data-role="navbar" data-theme="c">
 		<ul>
 			<li><a href="#local-events" data-icon="location" class="ui-state-persist">Local</a></li>
 			<li><a href="#global-events" data-icon="star">Global</a></li>
